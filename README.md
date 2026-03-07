@@ -6,14 +6,18 @@ The goal of this repository is to practice problem solving, algorithmic thinking
 
 ## Technologies
 
-- JavaScript
-- HTML
-- CSS
+* JavaScript
+* HTML
+* CSS
 
-## Purpose
+## Projects
 
-The projects in this repository are part of my learning process while studying programming fundamentals. The focus is on understanding logic, control flow, functions, and DOM manipulation.
+### Number Guessing Game
 
-## Future Projects
+A simple number guessing game where the user tries to guess a randomly generated number.
+The project focuses on conditional logic, loops, random number generation, and user interaction.
 
-Some additional exercises and small projects may be added here as the course progresses.
+### Shopping Cart
+
+A basic shopping cart simulation where the user can select products, define quantities, add them to a cart, and calculate the total value.
+This project practices DOM manipulation, string processing, calculations,
