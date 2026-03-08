@@ -14,6 +14,7 @@ function adicionar() {
 
     // 4 calcular subtotal
     if (isNaN(quantidade) || quantidade <= 0) {
+        alert("Insira uma quantidade válida.");
         return;
     }
     let subtotal = preco * quantidade;
