@@ -21,3 +21,6 @@ The project focuses on conditional logic, loops, random number generation, and u
 
 A basic shopping cart simulation where the user can select products, define quantities, add them to a cart, and calculate the total value.
 This project practices DOM manipulation, string processing, calculations,
+
+### Ticket Purchase System  
+A ticket purchasing simulation where users choose the type of ticket and quantity. The system validates the input, checks ticket availability, and updates the remaining quantity dynamically in the interface. This project focuses on DOM manipulation, input validation, and dynamic element selection.
