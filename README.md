@@ -24,3 +24,7 @@ This project practices DOM manipulation, string processing, calculations,
 
 ### Ticket Purchase System  
 A ticket purchasing simulation where users choose the type of ticket and quantity. The system validates the input, checks ticket availability, and updates the remaining quantity dynamically in the interface. This project focuses on DOM manipulation, input validation, and dynamic element selection.
+
+### Secret Friend Draw
+
+A simple Secret Friend (Amigo Secreto) application where users can add friends to a list, remove them by clicking their names, and generate a randomized draw. The project implements array manipulation, DOM updates, validation, and the Fisher–Yates shuffle algorithm to ensure a fair random draw.
