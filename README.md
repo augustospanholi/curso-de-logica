@@ -1,30 +1,38 @@
-# Programming Logic
+# curso-de-logica
 
-This repository contains exercises and small projects created while studying programming logic and basic JavaScript concepts.
+JavaScript projects built during the Alura course **"Lógica de Programação"**.
 
-The goal of this repository is to practice problem solving, algorithmic thinking, and interaction with the browser using HTML, CSS, and JavaScript.
+## About
 
-## Technologies
+A collection of small web applications that explore programming logic fundamentals using JavaScript, HTML, and CSS.
 
-* JavaScript
-* HTML
-* CSS
+## Concepts covered
 
-## Projects
+- Variables, conditionals, and loops
+- Functions and scope
+- DOM manipulation and event handling
+- Input validation and user interaction
+- String and array operations
+- Dynamic HTML generation
 
-### Number Guessing Game
+## Project structure
 
-A simple number guessing game where the user tries to guess a randomly generated number.
-The project focuses on conditional logic, loops, random number generation, and user interaction.
+```
+Projetos/
+├── alugames/          # Board game rental system
+├── carrinho-compras/  # Shopping cart with total calculation
+├── ingresso/          # Ticket purchase with availability check
+└── amigo-secreto/     # Secret friend draw with shuffle logic
+```
 
-### Shopping Cart
+## How to open
 
-A basic shopping cart simulation where the user can select products, define quantities, add them to a cart, and calculate the total value.
-This project practices DOM manipulation, string processing, calculations,
+Open the `index.html` file of each project in a browser:
 
-### Ticket Purchase System  
-A ticket purchasing simulation where users choose the type of ticket and quantity. The system validates the input, checks ticket availability, and updates the remaining quantity dynamically in the interface. This project focuses on DOM manipulation, input validation, and dynamic element selection.
+```
+Projetos/{project-name}/index.html
+```
 
-### Secret Friend Draw
+## Course
 
-A simple Secret Friend (Amigo Secreto) application where users can add friends to a list, remove them by clicking their names, and generate a randomized draw. The project implements array manipulation, DOM updates, validation, and the Fisher–Yates shuffle algorithm to ensure a fair random draw.
+[Lógica de Programação — Alura](https://www.alura.com.br)
